@@ -1,6 +1,13 @@
-# Esperanto
-A language database, that can hold text and emoji's (both in unicode)
+Learning Esperanto
 
-Need to think about best tools to use, and on what platform?
-And whether to use US or UK sign langauge
-TBC
+The file hope.pdf is the goal for school leavers
+whose first language is English
+
+Aesops fables (Public Domain) are provided as
+exercises. The RHS should be converted to Esperanto.
+
+For early years learners, a better approach would be
+LHS: Esperanto  
+RHS: Emoji
+
+Just like flash cards.
